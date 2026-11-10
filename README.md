@@ -84,16 +84,6 @@ drops, Parquet partitioned by date, co-occurrence recommendations (support/confi
   `CLV_LIFESPAN_MONTHS`).
 * A Java stack trace about `sessions_*.json` during `01_clean.py` is a harmless Spark warning.
 
-## Screenshot checklist (to show the project is running)
-
-1. MongoDB: output of `load_mongo.py` (collection counts) and `aggregations.py` (A1, A2, A5)
-2. HBase: `create_tables.py` output, `hbase shell` commands from `hbase/hbase_shell_commands.txt`
-   (`list`, `describe`, `scan ... ROWPREFIXFILTER`), and `queries.py` output
-3. Spark: `01_clean.py` data-quality report, `02_recommend.py` tables, `03_sql_analytics.py` Q1 to Q8
-4. Integration: `clv_pipeline.py` output showing "extracting ... from MongoDB / HBase" and the tier table
-5. The five PNGs in `figures/`
-6. Optional: HBase Master UI (`http://localhost:16010`) and the Spark UI while a job runs
-
 ## Report
 - Technical report (PDF): `report/Technical_Report_NISHYIRIMBERE_101388.pdf`
-- Screenshots of each stage running: `Screenshot/`
+- Screenshots of each stage running: `screenshots/`
