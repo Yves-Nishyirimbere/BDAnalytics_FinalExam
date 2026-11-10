@@ -1,0 +1,9 @@
+device_type,referrer,sessions,pct_converted,pct_with_transaction,avg_duration_s
+desktop,,66757,20.24,20.24,1813.0
+mobile,,66491,20.18,20.18,1812.0
+tablet,,66752,20.32,20.32,1815.0
+,affiliate,40011,20.4,20.4,1816.0
+,direct,40136,20.36,20.36,1814.0
+,email,40203,19.86,19.86,1804.0
+,search_engine,39608,20.55,20.55,1820.0
+,social,40042,20.05,20.05,1815.0

@@ -1,0 +1,9 @@
+{
+  "window_days": 90,
+  "lifespan_months": 12.0,
+  "corr_sessions_vs_total_spent": 0.09169758259125388,
+  "corr_avgduration_vs_clv": -0.02912329391562762,
+  "buyers": 9998,
+  "non_buyers": 2,
+  "source": "MongoDB+HBase"
+}

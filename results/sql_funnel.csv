@@ -1,0 +1,7 @@
+stage,sessions,pct_of_all,step_conversion_pct
+all_sessions,200000,100.0,
+viewed_product,197462,98.73,98.73
+added_to_cart,135828,67.91,68.79
+reached_checkout,87065,43.53,64.1
+reached_confirmation,65212,32.61,74.9
+purchased,30772,15.39,47.19

@@ -1,0 +1,32 @@
+# HBase shell equivalents (open the shell with:  docker exec -it <hbase-container> hbase shell )
+# Useful for screenshots of the schema and sample queries.
+
+# ---------- Schema (with region pre-splits, which the happybase script cannot do) ----------
+create 'user_sessions',
+  {NAME => 'info', VERSIONS => 1},
+  {NAME => 'pv',   VERSIONS => 1},
+  {NAME => 'cart', VERSIONS => 1},
+  SPLITS => ['user_002000', 'user_004000', 'user_006000', 'user_008000']
+
+create 'product_metrics', {NAME => 'm', VERSIONS => 1},
+  SPLITS => ['prod_01000', 'prod_02000', 'prod_03000', 'prod_04000']
+
+list
+describe 'user_sessions'
+describe 'product_metrics'
+
+# ---------- Sample queries ----------
+# Row count (after loading)
+count 'user_sessions', INTERVAL => 10000
+
+# First 3 rows of one user = that user's 3 NEWEST sessions (reverse timestamp in the key)
+scan 'user_sessions', {ROWPREFIXFILTER => 'user_000042#', LIMIT => 3, COLUMNS => ['info']}
+
+# Only selected columns
+scan 'user_sessions', {ROWPREFIXFILTER => 'user_000042#', LIMIT => 2, COLUMNS => ['info:start_time', 'info:conversion_status']}
+
+# One full session (replace with a real row key from the scan above)
+get 'user_sessions', 'user_000042#<rowkey-from-scan>'
+
+# Product daily history (range scan)
+scan 'product_metrics', {STARTROW => 'prod_00123#20260801', STOPROW => 'prod_00123#20261201'}

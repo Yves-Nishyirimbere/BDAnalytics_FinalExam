@@ -1,0 +1,928 @@
+units_sold,product_id,name,category_name,revenue,sessions_viewed
+124.0,prod_00000,Vision-Oriented Next Generation Installation,Wright-Leblanc,46041.2,50.0
+123.0,prod_00005,Phased Directional Customer Loyalty,King-Odonnell,51057.3,0.0
+118.0,prod_00010,Public-Key Full-Range Algorithm,Mitchell-Kim,33985.18,0.0
+131.0,prod_00014,Optional 24Hour Model,"Moore, Becker and Carlson",12670.32,0.0
+119.0,prod_00016,Optional Asymmetric Secured Line,James LLC,55162.45,0.0
+123.0,prod_00019,De-Engineered Content-Based Instruction Set,Hancock Inc,35264.1,0.0
+0.0,prod_00022,,,0.0,50.0
+0.0,prod_00028,,,0.0,46.0
+121.0,prod_00033,Progressive Next Generation Policy,Mitchell-Kim,38676.44,0.0
+0.0,prod_00036,,,0.0,44.0
+0.0,prod_00040,,,0.0,47.0
+0.0,prod_00042,,,0.0,50.0
+0.0,prod_00050,,,0.0,47.0
+119.0,prod_00055,Ameliorated Regional Collaboration,Smith Ltd,42582.96,0.0
+121.0,prod_00070,Cross-Group Even-Keeled Knowledge User,Preston Ltd,16555.22,45.0
+125.0,prod_00073,Total Even-Keeled Open Architecture,"Patterson, Smith and Jones",42362.5,49.0
+0.0,prod_00095,,,0.0,46.0
+0.0,prod_00100,,,0.0,46.0
+0.0,prod_00104,,,0.0,44.0
+123.0,prod_00116,Business-Focused Content-Based Model,Mitchell-Kim,5558.37,0.0
+117.0,prod_00119,Self-Enabling Real-Time Website,"Moore, Becker and Carlson",60669.18,0.0
+0.0,prod_00121,,,0.0,47.0
+121.0,prod_00129,Distributed Local Monitoring,Burns-Rodriguez,19834.32,0.0
+127.0,prod_00131,Inverse Content-Based Standardization,Hancock Inc,2942.59,0.0
+137.0,prod_00151,Team-Oriented Eco-Centric Knowledgebase,Rodriguez-Graham,19675.94,0.0
+0.0,prod_00153,,,0.0,48.0
+0.0,prod_00155,,,0.0,51.0
+119.0,prod_00161,Inverse Value-Added Instruction Set,Phillips Inc,19602.87,51.0
+0.0,prod_00166,,,0.0,49.0
+122.0,prod_00172,Automated Exuding Methodology,Burns-Rodriguez,58284.28,0.0
+120.0,prod_00178,Quality-Focused Secondary Help-Desk,"Anderson, Walls and Duncan",57878.4,0.0
+0.0,prod_00186,,,0.0,45.0
+0.0,prod_00190,,,0.0,46.0
+125.0,prod_00195,Right-Sized Multi-Tasking Frame,Owens-Daniel,57000.0,0.0
+0.0,prod_00196,,,0.0,47.0
+0.0,prod_00199,,,0.0,52.0
+118.0,prod_00200,Multi-Layered Coherent Software,Smith Ltd,26965.36,0.0
+0.0,prod_00201,,,0.0,46.0
+121.0,prod_00202,De-Engineered Next Generation Approach,Kelly-Santiago,34515.25,0.0
+0.0,prod_00203,,,0.0,44.0
+121.0,prod_00206,Customer-Focused Grid-Enabled Open Architecture,Phillips Inc,30996.57,0.0
+125.0,prod_00215,Versatile Regional Application,Smith Ltd,29622.5,0.0
+130.0,prod_00216,Future-Proofed Leadingedge Protocol,Bush Inc,22861.8,0.0
+0.0,prod_00217,,,0.0,49.0
+140.0,prod_00218,Optional Bifurcated Forecast,"Ellis, Baker and Wright",21588.0,0.0
+0.0,prod_00231,,,0.0,50.0
+118.0,prod_00249,Integrated Solution-Oriented Standardization,"Patterson, Smith and Jones",37081.5,52.0
+0.0,prod_00253,,,0.0,45.0
+128.0,prod_00255,Face-To-Face Client-Driven Collaboration,Powell PLC,7723.52,0.0
+0.0,prod_00258,,,0.0,47.0
+0.0,prod_00260,,,0.0,45.0
+0.0,prod_00264,,,0.0,44.0
+0.0,prod_00266,,,0.0,53.0
+0.0,prod_00267,,,0.0,44.0
+0.0,prod_00273,,,0.0,47.0
+125.0,prod_00280,Front-Line Object-Oriented Instruction Set,Spence PLC,48163.75,0.0
+120.0,prod_00283,Phased 6Thgeneration Productivity,Preston Ltd,22030.8,0.0
+122.0,prod_00287,Balanced Heuristic Moratorium,"Anderson, Walls and Duncan",2712.06,0.0
+0.0,prod_00288,,,0.0,56.0
+119.0,prod_00292,Stand-Alone Content-Based Forecast,Powell PLC,15328.39,0.0
+127.0,prod_00299,Monitored Local Analyzer,Smith Ltd,58246.01,0.0
+119.0,prod_00300,Seamless Intermediate Focus Group,"Anderson, Walls and Duncan",34612.34,0.0
+119.0,prod_00301,Centralized Asynchronous Secured Line,"Brewer, Bryant and Hickman",35218.05,0.0
+122.0,prod_00308,Programmable Human-Resource Open Architecture,Smith Ltd,37937.12,0.0
+121.0,prod_00310,Horizontal System-Worthy Matrix,Carney-Santos,18419.83,45.0
+0.0,prod_00313,,,0.0,44.0
+0.0,prod_00320,,,0.0,44.0
+128.0,prod_00323,Reactive Scalable Parallelism,"Anderson, Walls and Duncan",55458.56,0.0
+136.0,prod_00329,Down-Sized Optimizing Paradigm,Phillips Inc,25271.52,0.0
+0.0,prod_00339,,,0.0,52.0
+0.0,prod_00341,,,0.0,44.0
+119.0,prod_00347,Fundamental Upward-Trending Hierarchy,Phillips Inc,14689.36,0.0
+132.0,prod_00355,Programmable Logistical Collaboration,Skinner-Romero,57946.68,0.0
+125.0,prod_00356,Inverse Reciprocal Functionalities,Bush Inc,53068.75,49.0
+121.0,prod_00360,Operative Optimal Function,Mitchell-Kim,45961.85,0.0
+0.0,prod_00362,,,0.0,44.0
+0.0,prod_00368,,,0.0,52.0
+0.0,prod_00376,,,0.0,45.0
+126.0,prod_00385,Visionary Background Projection,Bush Inc,39148.2,0.0
+0.0,prod_00402,,,0.0,52.0
+0.0,prod_00404,,,0.0,44.0
+0.0,prod_00413,,,0.0,45.0
+141.0,prod_00419,Devolved Solution-Oriented Hardware,Phillips Inc,18981.42,0.0
+118.0,prod_00420,Public-Key Hybrid Moderator,"Brewer, Bryant and Hickman",44956.82,0.0
+118.0,prod_00434,Distributed Exuding Implementation,Spence PLC,6813.32,0.0
+128.0,prod_00441,Ergonomic Well-Modulated Parallelism,Smith Ltd,19632.64,0.0
+0.0,prod_00448,,,0.0,45.0
+0.0,prod_00450,,,0.0,44.0
+0.0,prod_00458,,,0.0,46.0
+0.0,prod_00459,,,0.0,44.0
+150.0,prod_00474,Universal Hybrid Archive,Spence PLC,54252.0,0.0
+132.0,prod_00486,Adaptive Fault-Tolerant Intranet,James LLC,29348.88,0.0
+0.0,prod_00492,,,0.0,46.0
+121.0,prod_00494,Fully-Configurable Uniform Product,Owens-Daniel,8806.38,0.0
+129.0,prod_00496,Managed Regional Implementation,Owens-Daniel,21544.29,0.0
+123.0,prod_00506,Front-Line Eco-Centric Protocol,"Ellis, Baker and Wright",29645.46,0.0
+125.0,prod_00517,Distributed Grid-Enabled Algorithm,Wright-Leblanc,38178.75,0.0
+128.0,prod_00520,Cross-Platform Leadingedge Success,Burns-Rodriguez,9168.64,0.0
+125.0,prod_00533,Innovative Reciprocal Parallelism,Owens-Daniel,23670.0,0.0
+0.0,prod_00535,,,0.0,44.0
+120.0,prod_00540,Ergonomic Human-Resource Open Architecture,Wright-Leblanc,48740.4,0.0
+127.0,prod_00554,Expanded Analyzing Open System,"Patterson, Smith and Jones",49049.94,0.0
+137.0,prod_00557,Versatile Zero Tolerance Installation,Mitchell-Kim,17396.26,0.0
+0.0,prod_00560,,,0.0,53.0
+0.0,prod_00564,,,0.0,49.0
+123.0,prod_00567,Proactive Encompassing Graphic Interface,Cameron-Parsons,22164.6,48.0
+131.0,prod_00587,Configurable Dynamic Neural-Net,Mitchell-Kim,38845.43,0.0
+124.0,prod_00590,User-Friendly Hybrid Frame,Baldwin Ltd,13782.6,0.0
+121.0,prod_00592,Proactive Scalable Policy,Spence PLC,59444.88,0.0
+121.0,prod_00595,Enhanced Well-Modulated Leverage,Bush Inc,43753.6,46.0
+0.0,prod_00603,,,0.0,44.0
+0.0,prod_00609,,,0.0,44.0
+141.0,prod_00610,Visionary 4Thgeneration Groupware,Spence PLC,13727.76,0.0
+126.0,prod_00615,Advanced Dynamic Analyzer,James LLC,25973.64,0.0
+0.0,prod_00619,,,0.0,47.0
+118.0,prod_00620,Synergistic Actuating Conglomeration,James LLC,23742.78,0.0
+0.0,prod_00626,,,0.0,44.0
+0.0,prod_00627,,,0.0,55.0
+121.0,prod_00628,Advanced Full-Range Ability,Rodriguez-Graham,54332.63,0.0
+120.0,prod_00634,Optional Stable Capacity,"Rodriguez, Figueroa and Sanchez",10920.0,0.0
+120.0,prod_00636,Focused Asynchronous Customer Loyalty,"Anderson, Walls and Duncan",32822.4,0.0
+0.0,prod_00640,,,0.0,44.0
+0.0,prod_00641,,,0.0,53.0
+0.0,prod_00645,,,0.0,52.0
+0.0,prod_00649,,,0.0,47.0
+122.0,prod_00651,Enhanced Heuristic Data-Warehouse,Baldwin Ltd,33571.96,46.0
+0.0,prod_00652,,,0.0,46.0
+122.0,prod_00654,Operative Dedicated Project,King-Odonnell,14172.74,0.0
+135.0,prod_00657,Networked Encompassing Contingency,"Brewer, Bryant and Hickman",45852.75,0.0
+0.0,prod_00658,,,0.0,50.0
+128.0,prod_00662,Face-To-Face Object-Oriented Website,"Ellis, Baker and Wright",48869.12,0.0
+118.0,prod_00666,Proactive Needs-Based Function,Wright-Leblanc,12817.16,0.0
+120.0,prod_00668,Face-To-Face 3Rdgeneration Moderator,Skinner-Romero,10520.4,0.0
+0.0,prod_00677,,,0.0,45.0
+0.0,prod_00682,,,0.0,50.0
+0.0,prod_00684,,,0.0,51.0
+120.0,prod_00704,Reactive Analyzing Info-Mediaries,Hancock Inc,609.6,48.0
+0.0,prod_00710,,,0.0,44.0
+121.0,prod_00713,Programmable Logistical Access,"Patterson, Smith and Jones",26333.23,0.0
+0.0,prod_00715,,,0.0,51.0
+0.0,prod_00716,,,0.0,46.0
+0.0,prod_00723,,,0.0,44.0
+0.0,prod_00725,,,0.0,44.0
+149.0,prod_00729,Multi-Layered Maximized Middleware,Carney-Santos,19471.32,46.0
+0.0,prod_00734,,,0.0,49.0
+0.0,prod_00735,,,0.0,55.0
+131.0,prod_00746,Devolved Uniform Algorithm,"Patterson, Smith and Jones",35540.3,0.0
+0.0,prod_00747,,,0.0,45.0
+0.0,prod_00748,,,0.0,44.0
+121.0,prod_00754,Operative Zero Tolerance Groupware,James LLC,24556.95,0.0
+143.0,prod_00758,Innovative Incremental Application,King-Odonnell,46579.39,0.0
+126.0,prod_00775,Function-Based Zero Administration Monitoring,"Patterson, Smith and Jones",31925.88,48.0
+122.0,prod_00780,Future-Proofed Regional Portal,Baldwin Ltd,38710.6,0.0
+118.0,prod_00786,Synchronized Background Budgetary Management,"Anderson, Walls and Duncan",10262.46,0.0
+123.0,prod_00789,Function-Based Secondary Emulation,Mitchell-Kim,29767.23,0.0
+133.0,prod_00799,Organic Contextually-Based Pricing Structure,Owens-Daniel,66837.82,0.0
+0.0,prod_00800,,,0.0,45.0
+0.0,prod_00807,,,0.0,46.0
+122.0,prod_00809,Front-Line Full-Range Focus Group,Powell PLC,15206.08,0.0
+0.0,prod_00816,,,0.0,48.0
+0.0,prod_00818,,,0.0,46.0
+0.0,prod_00822,,,0.0,44.0
+119.0,prod_00823,Universal Global Benchmark,Hancock Inc,51168.81,0.0
+0.0,prod_00830,,,0.0,46.0
+120.0,prod_00867,Inverse Homogeneous Utilization,"Anderson, Walls and Duncan",37813.2,0.0
+126.0,prod_00873,Optimized Bi-Directional Database,"Rodriguez, Figueroa and Sanchez",33269.04,0.0
+119.0,prod_00874,User-Centric Zero-Defect Internet Solution,Hancock Inc,1279.25,47.0
+0.0,prod_00893,,,0.0,46.0
+0.0,prod_00894,,,0.0,56.0
+0.0,prod_00897,,,0.0,45.0
+127.0,prod_00914,Digitized User-Facing Superstructure,James LLC,30756.86,0.0
+117.0,prod_00926,Diverse High-Level Portal,"Rodriguez, Figueroa and Sanchez",44283.33,0.0
+0.0,prod_00937,,,0.0,50.0
+129.0,prod_00938,Focused Homogeneous Info-Mediaries,Preston Ltd,14743.41,45.0
+120.0,prod_00947,Polarized Zero Administration Emulation,"Anderson, Walls and Duncan",30769.2,51.0
+138.0,prod_00965,Programmable Executive Core,Skinner-Romero,61556.28,0.0
+132.0,prod_00978,Assimilated Mission-Critical Budgetary Management,"Anderson, Walls and Duncan",61625.52,0.0
+128.0,prod_00982,Synergistic Value-Added Graphical User Interface,Baldwin Ltd,56256.0,0.0
+135.0,prod_00992,Quality-Focused 5Thgeneration Middleware,Baldwin Ltd,53376.3,0.0
+0.0,prod_00997,,,0.0,51.0
+128.0,prod_00998,Multi-Layered High-Level Initiative,Powell PLC,1109.76,0.0
+141.0,prod_01005,Cross-Platform System-Worthy Complexity,Hancock Inc,4471.11,0.0
+132.0,prod_01018,Switchable Eco-Centric Synergy,Kelly-Santiago,36813.48,0.0
+120.0,prod_01019,Configurable Demand-Driven Concept,Smith Ltd,55711.2,0.0
+0.0,prod_01029,,,0.0,47.0
+118.0,prod_01032,Versatile Mission-Critical Framework,"Patterson, Smith and Jones",31616.92,0.0
+0.0,prod_01038,,,0.0,46.0
+124.0,prod_01041,Future-Proofed Tangible Process Improvement,Skinner-Romero,21018.0,46.0
+128.0,prod_01049,Decentralized Zero Administration Structure,Hancock Inc,42337.28,0.0
+121.0,prod_01057,Decentralized Hybrid Utilization,"Patterson, Smith and Jones",38706.69,47.0
+131.0,prod_01059,Multi-Layered Zero Administration Array,"Ellis, Baker and Wright",41255.83,0.0
+123.0,prod_01062,Pre-Emptive Discrete Functionalities,Baldwin Ltd,18484.44,0.0
+127.0,prod_01081,Multi-Lateral Next Generation Synergy,"Brewer, Bryant and Hickman",30379.67,0.0
+0.0,prod_01103,,,0.0,45.0
+0.0,prod_01111,,,0.0,48.0
+0.0,prod_01117,,,0.0,48.0
+0.0,prod_01128,,,0.0,45.0
+0.0,prod_01139,,,0.0,46.0
+123.0,prod_01142,Assimilated Next Generation Focus Group,"Ellis, Baker and Wright",8138.91,0.0
+132.0,prod_01143,Object-Based Stable Challenge,Hancock Inc,37480.08,0.0
+141.0,prod_01146,Optimized Fault-Tolerant Portal,Baldwin Ltd,40403.55,0.0
+0.0,prod_01151,,,0.0,47.0
+126.0,prod_01155,Ergonomic Bi-Directional Capacity,Baldwin Ltd,43802.64,0.0
+125.0,prod_01159,Networked Mobile Leverage,"Anderson, Walls and Duncan",20566.25,45.0
+118.0,prod_01176,Universal Upward-Trending Capability,"Anderson, Walls and Duncan",28644.5,47.0
+0.0,prod_01178,,,0.0,47.0
+0.0,prod_01187,,,0.0,47.0
+130.0,prod_01188,Expanded Actuating Contingency,Cameron-Parsons,40458.6,0.0
+123.0,prod_01190,Cross-Group Actuating Benchmark,Bush Inc,3213.99,0.0
+125.0,prod_01192,Re-Engineered Zero Tolerance Open Architecture,"Anderson, Walls and Duncan",34028.75,0.0
+129.0,prod_01204,Decentralized User-Facing Database,"Anderson, Walls and Duncan",53826.54,45.0
+0.0,prod_01214,,,0.0,48.0
+0.0,prod_01222,,,0.0,51.0
+0.0,prod_01225,,,0.0,45.0
+118.0,prod_01235,Digitized Tertiary Website,Bush Inc,54333.1,0.0
+0.0,prod_01236,,,0.0,44.0
+0.0,prod_01240,,,0.0,47.0
+0.0,prod_01242,,,0.0,44.0
+120.0,prod_01243,Integrated Systemic Project,"Patterson, Smith and Jones",59085.6,0.0
+123.0,prod_01254,Team-Oriented Disintermediate Conglomeration,Carney-Santos,21443.82,0.0
+126.0,prod_01261,Sharable 24Hour System Engine,Hancock Inc,1732.5,44.0
+0.0,prod_01263,,,0.0,52.0
+132.0,prod_01266,Reactive Actuating Ability,Baldwin Ltd,27189.36,0.0
+0.0,prod_01277,,,0.0,47.0
+0.0,prod_01283,,,0.0,44.0
+124.0,prod_01291,Down-Sized Object-Oriented Application,Kelly-Santiago,12400.0,0.0
+127.0,prod_01305,Public-Key Discrete Implementation,Owens-Daniel,50166.27,44.0
+127.0,prod_01308,Balanced Bandwidth-Monitored Monitoring,"Moore, Becker and Carlson",15276.83,0.0
+0.0,prod_01317,,,0.0,48.0
+0.0,prod_01327,,,0.0,45.0
+127.0,prod_01332,Future-Proofed Coherent Standardization,"Brewer, Bryant and Hickman",29437.33,0.0
+0.0,prod_01343,,,0.0,46.0
+120.0,prod_01345,Quality-Focused Secondary Function,Cameron-Parsons,2362.8,0.0
+127.0,prod_01346,Organized 3Rdgeneration Alliance,Owens-Daniel,3825.24,0.0
+0.0,prod_01347,,,0.0,45.0
+125.0,prod_01348,Synchronized Multi-State Knowledgebase,Skinner-Romero,11802.5,0.0
+120.0,prod_01358,Digitized Web-Enabled Instruction Set,Carney-Santos,5898.0,0.0
+118.0,prod_01360,Multi-Tiered Zero-Defect Complexity,Skinner-Romero,56911.4,0.0
+0.0,prod_01362,,,0.0,53.0
+0.0,prod_01364,,,0.0,46.0
+122.0,prod_01378,Customizable Fresh-Thinking Emulation,Kelly-Santiago,8769.36,0.0
+0.0,prod_01382,,,0.0,44.0
+121.0,prod_01396,Implemented Disintermediate Project,Bush Inc,44350.13,0.0
+126.0,prod_01401,Automated Explicit Interface,Powell PLC,49952.7,0.0
+0.0,prod_01405,,,0.0,46.0
+0.0,prod_01411,,,0.0,44.0
+125.0,prod_01414,Public-Key Explicit Knowledge User,"Patterson, Smith and Jones",10792.5,0.0
+126.0,prod_01418,Expanded Multi-State Product,"Rodriguez, Figueroa and Sanchez",44835.84,0.0
+0.0,prod_01419,,,0.0,45.0
+0.0,prod_01425,,,0.0,45.0
+118.0,prod_01426,Horizontal Logistical Concept,"Patterson, Smith and Jones",38613.14,0.0
+0.0,prod_01431,,,0.0,44.0
+127.0,prod_01438,Integrated 4Thgeneration Initiative,Bush Inc,32461.2,0.0
+124.0,prod_01441,Visionary Even-Keeled Customer Loyalty,Phillips Inc,30632.96,0.0
+119.0,prod_01451,Cross-Group 24Hour Installation,"Ellis, Baker and Wright",38001.46,0.0
+134.0,prod_01458,Synchronized Executive Instruction Set,Cameron-Parsons,2472.3,0.0
+136.0,prod_01465,Multi-Lateral Intangible Productivity,"Ellis, Baker and Wright",53384.08,45.0
+120.0,prod_01466,Progressive Scalable Archive,Cameron-Parsons,55735.2,0.0
+0.0,prod_01472,,,0.0,48.0
+0.0,prod_01473,,,0.0,45.0
+122.0,prod_01476,Right-Sized Multi-State Task-Force,"Brewer, Bryant and Hickman",45246.14,0.0
+0.0,prod_01481,,,0.0,45.0
+129.0,prod_01496,Right-Sized User-Facing Function,"Moore, Becker and Carlson",67328.97,0.0
+117.0,prod_01507,Function-Based Mobile Methodology,Phillips Inc,23876.19,44.0
+0.0,prod_01516,,,0.0,48.0
+0.0,prod_01517,,,0.0,48.0
+0.0,prod_01519,,,0.0,44.0
+0.0,prod_01522,,,0.0,48.0
+120.0,prod_01533,Cross-Platform System-Worthy Service-Desk,Spence PLC,34557.6,0.0
+135.0,prod_01536,Compatible National Data-Warehouse,Spence PLC,17683.65,0.0
+0.0,prod_01545,,,0.0,46.0
+141.0,prod_01551,Function-Based Systemic Policy,Spence PLC,10402.98,0.0
+0.0,prod_01552,,,0.0,49.0
+0.0,prod_01558,,,0.0,51.0
+0.0,prod_01560,,,0.0,50.0
+125.0,prod_01561,Programmable Static Paradigm,James LLC,28971.25,0.0
+0.0,prod_01563,,,0.0,56.0
+123.0,prod_01564,User-Friendly Value-Added Encoding,"Ellis, Baker and Wright",16816.56,0.0
+123.0,prod_01569,Universal Holistic Function,Skinner-Romero,24426.57,44.0
+118.0,prod_01572,Multi-Lateral Systemic Capability,"Brewer, Bryant and Hickman",34533.88,0.0
+143.0,prod_01574,Versatile Disintermediate Framework,"Patterson, Smith and Jones",54796.17,0.0
+118.0,prod_01575,Diverse Leadingedge Product,Baldwin Ltd,27584.86,46.0
+0.0,prod_01581,,,0.0,50.0
+0.0,prod_01586,,,0.0,44.0
+120.0,prod_01591,Stand-Alone Reciprocal Product,Hancock Inc,20416.8,0.0
+0.0,prod_01601,,,0.0,44.0
+0.0,prod_01611,,,0.0,47.0
+0.0,prod_01613,,,0.0,47.0
+129.0,prod_01617,Fundamental Cohesive Strategy,Cameron-Parsons,15748.32,0.0
+131.0,prod_01618,Proactive 6Thgeneration Intranet,Powell PLC,27208.7,0.0
+122.0,prod_01621,Down-Sized Value-Added Migration,Phillips Inc,4911.72,0.0
+0.0,prod_01623,,,0.0,51.0
+122.0,prod_01624,Cross-Platform Full-Range Algorithm,Carney-Santos,56059.0,0.0
+121.0,prod_01636,Optional User-Facing Workforce,Owens-Daniel,11504.68,0.0
+0.0,prod_01639,,,0.0,44.0
+0.0,prod_01640,,,0.0,46.0
+0.0,prod_01644,,,0.0,45.0
+0.0,prod_01648,,,0.0,44.0
+0.0,prod_01659,,,0.0,44.0
+0.0,prod_01660,,,0.0,45.0
+0.0,prod_01664,,,0.0,44.0
+0.0,prod_01667,,,0.0,45.0
+129.0,prod_01673,Phased Bifurcated Methodology,Baldwin Ltd,54503.79,0.0
+0.0,prod_01678,,,0.0,48.0
+0.0,prod_01684,,,0.0,50.0
+0.0,prod_01689,,,0.0,45.0
+127.0,prod_01691,Realigned 6Thgeneration Middleware,Wright-Leblanc,15204.44,0.0
+0.0,prod_01707,,,0.0,44.0
+125.0,prod_01718,Business-Focused Web-Enabled Projection,Hancock Inc,34438.75,0.0
+133.0,prod_01720,Front-Line Value-Added Paradigm,Carney-Santos,31228.4,0.0
+124.0,prod_01726,Cross-Platform Client-Server Structure,King-Odonnell,15353.68,45.0
+0.0,prod_01730,,,0.0,47.0
+120.0,prod_01736,Implemented 6Thgeneration Model,Skinner-Romero,16326.0,0.0
+0.0,prod_01740,,,0.0,46.0
+0.0,prod_01741,,,0.0,51.0
+0.0,prod_01743,,,0.0,51.0
+0.0,prod_01747,,,0.0,44.0
+134.0,prod_01750,Quality-Focused Object-Oriented System Engine,"Rodriguez, Figueroa and Sanchez",9035.62,0.0
+139.0,prod_01751,Ergonomic Web-Enabled Leverage,Baldwin Ltd,46032.63,0.0
+135.0,prod_01757,Customizable Bandwidth-Monitored Moratorium,Rodriguez-Graham,66858.75,0.0
+0.0,prod_01759,,,0.0,46.0
+118.0,prod_01765,Intuitive Maximized Neural-Net,Mitchell-Kim,1182.36,0.0
+0.0,prod_01766,,,0.0,46.0
+0.0,prod_01773,,,0.0,48.0
+121.0,prod_01778,Intuitive Systemic Graphical User Interface,"Rodriguez, Figueroa and Sanchez",10188.2,0.0
+0.0,prod_01780,,,0.0,47.0
+118.0,prod_01793,Sharable Hybrid Budgetary Management,King-Odonnell,8995.14,0.0
+0.0,prod_01794,,,0.0,44.0
+125.0,prod_01797,Focused Multi-State Superstructure,"Patterson, Smith and Jones",52013.75,0.0
+118.0,prod_01804,Re-Engineered 4Thgeneration Support,Carney-Santos,10749.8,0.0
+128.0,prod_01806,Managed Fault-Tolerant Architecture,Bush Inc,14017.28,0.0
+120.0,prod_01815,Customer-Focused Systematic Approach,Burns-Rodriguez,32272.8,0.0
+0.0,prod_01825,,,0.0,45.0
+0.0,prod_01826,,,0.0,47.0
+117.0,prod_01827,Quality-Focused Zero-Defect Circuit,Smith Ltd,9255.87,0.0
+118.0,prod_01830,Profit-Focused Next Generation Application,Baldwin Ltd,35880.26,50.0
+118.0,prod_01833,Reduced Non-Volatile Groupware,Wright-Leblanc,22643.02,0.0
+120.0,prod_01835,Adaptive Scalable Definition,Powell PLC,46816.8,0.0
+0.0,prod_01842,,,0.0,47.0
+147.0,prod_01843,Ameliorated Context-Sensitive Firmware,Kelly-Santiago,51864.54,0.0
+119.0,prod_01845,Mandatory Demand-Driven Function,Owens-Daniel,35134.75,0.0
+122.0,prod_01852,Grass-Roots Clear-Thinking Migration,Skinner-Romero,33651.26,0.0
+0.0,prod_01856,,,0.0,45.0
+0.0,prod_01862,,,0.0,44.0
+133.0,prod_01865,Organic Discrete Firmware,Burns-Rodriguez,25086.46,44.0
+0.0,prod_01866,,,0.0,49.0
+0.0,prod_01887,,,0.0,45.0
+145.0,prod_01889,Assimilated Contextually-Based Customer Loyalty,Powell PLC,67277.1,0.0
+0.0,prod_01890,,,0.0,48.0
+139.0,prod_01895,Triple-Buffered Static Leverage,Smith Ltd,2942.63,0.0
+123.0,prod_01900,Monitored Tangible Structure,Preston Ltd,50914.62,0.0
+118.0,prod_01902,Networked Stable Contingency,Smith Ltd,1323.96,0.0
+118.0,prod_01905,Synchronized Asymmetric Standardization,Skinner-Romero,11912.1,0.0
+118.0,prod_01909,Expanded Motivating Analyzer,Cameron-Parsons,6836.92,0.0
+0.0,prod_01915,,,0.0,44.0
+118.0,prod_01917,Implemented Bottom-Line Monitoring,"Ellis, Baker and Wright",2312.8,0.0
+120.0,prod_01921,Stand-Alone Stable Structure,Preston Ltd,14548.8,0.0
+0.0,prod_01928,,,0.0,46.0
+0.0,prod_01936,,,0.0,44.0
+135.0,prod_01961,Enhanced Eco-Centric Implementation,Smith Ltd,14859.45,0.0
+0.0,prod_01963,,,0.0,52.0
+0.0,prod_01967,,,0.0,46.0
+133.0,prod_01968,Re-Contextualized Cohesive Core,King-Odonnell,48451.9,0.0
+129.0,prod_01981,Digitized Encompassing Synergy,Mitchell-Kim,64066.56,0.0
+0.0,prod_01982,,,0.0,46.0
+0.0,prod_01985,,,0.0,44.0
+0.0,prod_01987,,,0.0,46.0
+0.0,prod_01992,,,0.0,49.0
+157.0,prod_01995,Optimized Global Hub,Baldwin Ltd,33783.26,0.0
+0.0,prod_01997,,,0.0,45.0
+124.0,prod_02018,Multi-Tiered Solution-Oriented Project,Kelly-Santiago,51096.68,0.0
+0.0,prod_02021,,,0.0,44.0
+128.0,prod_02023,Public-Key Content-Based Info-Mediaries,"Brewer, Bryant and Hickman",34193.92,0.0
+0.0,prod_02028,,,0.0,45.0
+149.0,prod_02034,Monitored Web-Enabled Infrastructure,Bush Inc,3874.0,0.0
+0.0,prod_02048,,,0.0,49.0
+126.0,prod_02049,Multi-Layered 24/7 Capability,Rodriguez-Graham,41372.1,0.0
+118.0,prod_02055,Realigned National Toolset,"Moore, Becker and Carlson",38230.82,0.0
+0.0,prod_02058,,,0.0,48.0
+123.0,prod_02061,Versatile 5Thgeneration Artificial Intelligence,James LLC,36453.51,0.0
+125.0,prod_02063,Down-Sized Interactive Protocol,Baldwin Ltd,5365.0,51.0
+120.0,prod_02064,Programmable Zero Tolerance Frame,Baldwin Ltd,17288.4,0.0
+0.0,prod_02066,,,0.0,49.0
+0.0,prod_02068,,,0.0,47.0
+0.0,prod_02069,,,0.0,47.0
+0.0,prod_02073,,,0.0,49.0
+0.0,prod_02076,,,0.0,45.0
+131.0,prod_02078,Future-Proofed Bottom-Line Monitoring,Powell PLC,57962.26,0.0
+0.0,prod_02080,,,0.0,47.0
+0.0,prod_02081,,,0.0,50.0
+0.0,prod_02086,,,0.0,45.0
+132.0,prod_02091,Triple-Buffered Logistical Contingency,"Patterson, Smith and Jones",59751.12,0.0
+0.0,prod_02093,,,0.0,44.0
+0.0,prod_02095,,,0.0,47.0
+0.0,prod_02097,,,0.0,48.0
+0.0,prod_02098,,,0.0,44.0
+130.0,prod_02099,Total Bottom-Line Initiative,Spence PLC,32448.0,0.0
+127.0,prod_02102,Down-Sized Systematic Task-Force,Phillips Inc,2966.72,0.0
+0.0,prod_02104,,,0.0,45.0
+0.0,prod_02108,,,0.0,46.0
+122.0,prod_02110,Seamless Logistical Groupware,"Anderson, Walls and Duncan",48094.84,0.0
+0.0,prod_02122,,,0.0,47.0
+131.0,prod_02141,Adaptive Actuating Protocol,Baldwin Ltd,26658.5,0.0
+126.0,prod_02147,Cross-Group Bi-Directional Capacity,Rodriguez-Graham,41028.12,0.0
+117.0,prod_02148,Robust Bottom-Line Analyzer,Cameron-Parsons,51428.52,0.0
+120.0,prod_02149,Ergonomic Content-Based Strategy,Owens-Daniel,28021.2,44.0
+122.0,prod_02150,Quality-Focused Regional Graphical User Interface,"Moore, Becker and Carlson",7157.74,0.0
+123.0,prod_02152,Operative Neutral Structure,Mitchell-Kim,6407.07,0.0
+134.0,prod_02154,Optional Asymmetric Matrices,Smith Ltd,4254.5,0.0
+120.0,prod_02157,Re-Contextualized Analyzing Utilization,"Moore, Becker and Carlson",34606.8,0.0
+123.0,prod_02161,Total 24/7 Utilization,"Ellis, Baker and Wright",65880.03,0.0
+121.0,prod_02163,Innovative Directional Frame,"Rodriguez, Figueroa and Sanchez",2766.06,0.0
+127.0,prod_02164,Down-Sized Directional Analyzer,Bush Inc,26273.76,0.0
+124.0,prod_02168,Robust Holistic Graphic Interface,Preston Ltd,38314.76,0.0
+0.0,prod_02181,,,0.0,44.0
+136.0,prod_02188,Diverse Fault-Tolerant Groupware,Skinner-Romero,45655.2,0.0
+0.0,prod_02189,,,0.0,47.0
+0.0,prod_02190,,,0.0,47.0
+0.0,prod_02193,,,0.0,49.0
+117.0,prod_02195,Customer-Focused Executive Help-Desk,Powell PLC,10171.98,0.0
+129.0,prod_02200,Proactive Stable Hub,Phillips Inc,38979.93,0.0
+0.0,prod_02208,,,0.0,45.0
+119.0,prod_02219,Total Bi-Directional Protocol,Powell PLC,53271.54,44.0
+121.0,prod_02246,Self-Enabling Background Structure,"Rodriguez, Figueroa and Sanchez",27717.47,0.0
+130.0,prod_02250,Mandatory Explicit Hierarchy,Carney-Santos,38814.1,44.0
+117.0,prod_02254,Digitized Zero Administration Function,Mitchell-Kim,9127.17,0.0
+145.0,prod_02258,Function-Based Well-Modulated Intranet,"Anderson, Walls and Duncan",51414.1,44.0
+132.0,prod_02260,Open-Architected Incremental Process Improvement,Mitchell-Kim,50257.68,0.0
+135.0,prod_02264,Realigned 24/7 Collaboration,"Ellis, Baker and Wright",20852.1,47.0
+125.0,prod_02277,Operative Multi-Tasking Data-Warehouse,"Patterson, Smith and Jones",47067.5,0.0
+128.0,prod_02282,Advanced Next Generation Toolset,King-Odonnell,43712.0,47.0
+119.0,prod_02292,Ameliorated Exuding Function,"Brewer, Bryant and Hickman",19336.31,0.0
+124.0,prod_02293,Streamlined Logistical Installation,Burns-Rodriguez,15390.88,0.0
+0.0,prod_02305,,,0.0,44.0
+118.0,prod_02310,Re-Engineered Intermediate Encoding,Carney-Santos,41017.98,0.0
+124.0,prod_02323,Self-Enabling 3Rdgeneration Productivity,"Anderson, Walls and Duncan",33887.96,0.0
+0.0,prod_02335,,,0.0,46.0
+0.0,prod_02340,,,0.0,45.0
+0.0,prod_02347,,,0.0,44.0
+120.0,prod_02363,Devolved Bi-Directional Graphic Interface,Mitchell-Kim,10543.2,0.0
+127.0,prod_02366,Balanced Bifurcated Application,"Anderson, Walls and Duncan",19335.75,0.0
+0.0,prod_02368,,,0.0,50.0
+126.0,prod_02381,Re-Engineered Secondary Benchmark,Mitchell-Kim,55228.32,45.0
+0.0,prod_02387,,,0.0,50.0
+126.0,prod_02390,Customizable Directional Budgetary Management,Burns-Rodriguez,34142.22,0.0
+127.0,prod_02393,Team-Oriented Encompassing Methodology,Burns-Rodriguez,37783.77,0.0
+0.0,prod_02394,,,0.0,46.0
+0.0,prod_02397,,,0.0,47.0
+0.0,prod_02399,,,0.0,46.0
+0.0,prod_02412,,,0.0,46.0
+130.0,prod_02423,Reverse-Engineered Bottom-Line Application,Kelly-Santiago,15164.5,0.0
+132.0,prod_02425,Profit-Focused Static Throughput,Skinner-Romero,23622.72,0.0
+122.0,prod_02434,Enterprise-Wide Homogeneous Toolset,Mitchell-Kim,58217.18,0.0
+129.0,prod_02442,Persistent Well-Modulated Model,"Brewer, Bryant and Hickman",55493.22,0.0
+122.0,prod_02447,Realigned User-Facing Methodology,Powell PLC,58540.48,0.0
+122.0,prod_02453,Open-Architected Mission-Critical Contingency,"Rodriguez, Figueroa and Sanchez",32853.38,46.0
+0.0,prod_02456,,,0.0,45.0
+127.0,prod_02457,Quality-Focused Dedicated Leverage,Preston Ltd,60736.48,0.0
+0.0,prod_02469,,,0.0,47.0
+0.0,prod_02472,,,0.0,49.0
+118.0,prod_02478,Enhanced Fresh-Thinking Benchmark,Rodriguez-Graham,47564.62,0.0
+0.0,prod_02481,,,0.0,53.0
+0.0,prod_02499,,,0.0,44.0
+120.0,prod_02508,Seamless Holistic Help-Desk,"Brewer, Bryant and Hickman",46605.6,45.0
+127.0,prod_02509,Centralized Disintermediate Emulation,Preston Ltd,67650.36,0.0
+0.0,prod_02516,,,0.0,48.0
+119.0,prod_02528,Expanded Homogeneous Contingency,Hancock Inc,28600.46,0.0
+0.0,prod_02537,,,0.0,47.0
+118.0,prod_02539,Multi-Lateral Encompassing Protocol,Preston Ltd,5921.24,0.0
+127.0,prod_02542,Organic Maximized Adapter,Mitchell-Kim,18082.26,0.0
+119.0,prod_02544,Centralized Optimal Artificial Intelligence,Smith Ltd,22809.92,0.0
+134.0,prod_02545,Cloned Leadingedge Contingency,Rodriguez-Graham,33057.8,0.0
+119.0,prod_02555,Streamlined Holistic Leverage,Rodriguez-Graham,54061.7,0.0
+0.0,prod_02560,,,0.0,44.0
+0.0,prod_02571,,,0.0,44.0
+0.0,prod_02575,,,0.0,44.0
+0.0,prod_02577,,,0.0,44.0
+0.0,prod_02583,,,0.0,52.0
+0.0,prod_02584,,,0.0,46.0
+0.0,prod_02587,,,0.0,44.0
+128.0,prod_02588,Organic Context-Sensitive Migration,Burns-Rodriguez,41661.44,0.0
+120.0,prod_02603,Synchronized Bifurcated Help-Desk,Powell PLC,1176.0,0.0
+126.0,prod_02604,Compatible Fresh-Thinking Complexity,Carney-Santos,2730.42,0.0
+121.0,prod_02618,Customizable Web-Enabled Task-Force,Hancock Inc,35070.64,0.0
+0.0,prod_02624,,,0.0,47.0
+0.0,prod_02633,,,0.0,46.0
+118.0,prod_02647,Streamlined Object-Oriented Leverage,"Moore, Becker and Carlson",48095.62,0.0
+0.0,prod_02648,,,0.0,47.0
+123.0,prod_02649,Total National Middleware,Powell PLC,21028.08,50.0
+128.0,prod_02656,Phased Multi-State Success,Skinner-Romero,15863.04,0.0
+0.0,prod_02660,,,0.0,48.0
+0.0,prod_02664,,,0.0,46.0
+139.0,prod_02678,Realigned Directional Hardware,Phillips Inc,53114.68,0.0
+132.0,prod_02685,Phased Demand-Driven Concept,"Anderson, Walls and Duncan",4869.48,0.0
+0.0,prod_02686,,,0.0,55.0
+122.0,prod_02687,Phased 24Hour Graphic Interface,Burns-Rodriguez,12168.28,0.0
+0.0,prod_02692,,,0.0,44.0
+117.0,prod_02694,Function-Based Systemic Capability,Kelly-Santiago,15800.85,0.0
+124.0,prod_02695,Optional Solution-Oriented Hardware,King-Odonnell,59079.8,0.0
+0.0,prod_02700,,,0.0,47.0
+0.0,prod_02707,,,0.0,47.0
+0.0,prod_02712,,,0.0,45.0
+136.0,prod_02715,Team-Oriented Motivating Installation,Mitchell-Kim,69493.28,56.0
+0.0,prod_02717,,,0.0,44.0
+0.0,prod_02727,,,0.0,51.0
+0.0,prod_02729,,,0.0,44.0
+128.0,prod_02732,Expanded Empowering Data-Warehouse,Owens-Daniel,2874.88,0.0
+0.0,prod_02734,,,0.0,44.0
+0.0,prod_02740,,,0.0,49.0
+0.0,prod_02742,,,0.0,48.0
+0.0,prod_02743,,,0.0,48.0
+126.0,prod_02745,Right-Sized Tangible Moderator,Rodriguez-Graham,22998.78,0.0
+0.0,prod_02762,,,0.0,48.0
+0.0,prod_02763,,,0.0,45.0
+135.0,prod_02765,Automated Empowering Instruction Set,Rodriguez-Graham,29222.1,45.0
+0.0,prod_02768,,,0.0,44.0
+141.0,prod_02769,Pre-Emptive Solution-Oriented Secured Line,Burns-Rodriguez,34123.41,0.0
+156.0,prod_02773,Optimized National Task-Force,"Ellis, Baker and Wright",60109.92,0.0
+0.0,prod_02774,,,0.0,45.0
+0.0,prod_02794,,,0.0,47.0
+125.0,prod_02798,Cross-Platform Directional Definition,Burns-Rodriguez,2163.75,0.0
+0.0,prod_02799,,,0.0,48.0
+118.0,prod_02800,Operative Scalable Policy,"Ellis, Baker and Wright",12813.62,0.0
+0.0,prod_02814,,,0.0,51.0
+0.0,prod_02818,,,0.0,44.0
+0.0,prod_02820,,,0.0,51.0
+124.0,prod_02822,Operative Incremental Core,Kelly-Santiago,662.16,0.0
+120.0,prod_02840,Universal Multimedia Product,Spence PLC,35551.2,0.0
+118.0,prod_02843,Fully-Configurable Mission-Critical Database,Carney-Santos,21643.56,0.0
+132.0,prod_02850,Universal Cohesive Open System,Bush Inc,6618.48,0.0
+133.0,prod_02852,Robust Explicit Info-Mediaries,King-Odonnell,19340.86,0.0
+123.0,prod_02858,Multi-Tiered 24/7 Secured Line,Bush Inc,47252.91,0.0
+0.0,prod_02871,,,0.0,44.0
+120.0,prod_02872,Innovative Analyzing Database,Carney-Santos,41776.8,0.0
+0.0,prod_02874,,,0.0,51.0
+0.0,prod_02876,,,0.0,44.0
+127.0,prod_02879,Versatile Incremental Policy,Bush Inc,8435.34,0.0
+118.0,prod_02880,Managed Motivating Matrices,"Patterson, Smith and Jones",20659.44,0.0
+0.0,prod_02884,,,0.0,52.0
+126.0,prod_02885,Optional Systematic Framework,Preston Ltd,46436.04,0.0
+119.0,prod_02889,Customer-Focused Systemic Framework,Wright-Leblanc,42061.74,0.0
+0.0,prod_02892,,,0.0,48.0
+123.0,prod_02894,User-Friendly Foreground Knowledge User,"Anderson, Walls and Duncan",60236.79,51.0
+0.0,prod_02896,,,0.0,53.0
+0.0,prod_02898,,,0.0,46.0
+0.0,prod_02899,,,0.0,44.0
+120.0,prod_02904,Triple-Buffered Mobile Encryption,"Moore, Becker and Carlson",56934.0,0.0
+127.0,prod_02908,Distributed Optimizing Framework,"Patterson, Smith and Jones",71000.62,0.0
+0.0,prod_02917,,,0.0,55.0
+0.0,prod_02929,,,0.0,45.0
+0.0,prod_02934,,,0.0,45.0
+122.0,prod_02944,Customizable Logistical Adapter,Phillips Inc,48599.92,0.0
+132.0,prod_02945,Cross-Platform Heuristic Hierarchy,Baldwin Ltd,25202.76,0.0
+122.0,prod_02951,Automated Analyzing Policy,James LLC,41920.42,0.0
+0.0,prod_02969,,,0.0,48.0
+0.0,prod_02976,,,0.0,48.0
+0.0,prod_02977,,,0.0,44.0
+122.0,prod_02979,Pre-Emptive Zero Administration Neural-Net,"Ellis, Baker and Wright",23006.76,44.0
+0.0,prod_02981,,,0.0,50.0
+123.0,prod_02994,Phased Maximized Graphic Interface,"Patterson, Smith and Jones",10206.54,0.0
+127.0,prod_02998,Fully-Configurable Hybrid Toolset,Phillips Inc,13761.72,0.0
+0.0,prod_03008,,,0.0,50.0
+119.0,prod_03015,Configurable 24/7 Attitude,Powell PLC,2117.01,0.0
+124.0,prod_03016,Face-To-Face Optimizing Internet Solution,Mitchell-Kim,8464.24,0.0
+0.0,prod_03021,,,0.0,46.0
+0.0,prod_03028,,,0.0,44.0
+134.0,prod_03041,Versatile Next Generation Monitoring,Burns-Rodriguez,36718.68,0.0
+135.0,prod_03047,Reactive Coherent Secured Line,Preston Ltd,4384.8,0.0
+0.0,prod_03054,,,0.0,45.0
+136.0,prod_03059,Robust Discrete Success,Powell PLC,35947.52,0.0
+131.0,prod_03061,Secured Leadingedge Methodology,Bush Inc,73417.64,0.0
+123.0,prod_03069,Profound Incremental Circuit,Baldwin Ltd,43293.54,0.0
+0.0,prod_03075,,,0.0,46.0
+135.0,prod_03080,Function-Based 3Rdgeneration Portal,"Moore, Becker and Carlson",21223.35,45.0
+0.0,prod_03092,,,0.0,57.0
+0.0,prod_03094,,,0.0,45.0
+124.0,prod_03097,Programmable Background Protocol,Carney-Santos,44130.36,0.0
+130.0,prod_03099,Stand-Alone Dedicated Forecast,King-Odonnell,16370.9,0.0
+121.0,prod_03104,User-Friendly Object-Oriented Moratorium,Rodriguez-Graham,5902.38,45.0
+120.0,prod_03107,Public-Key Actuating Software,Phillips Inc,20608.8,0.0
+0.0,prod_03108,,,0.0,49.0
+0.0,prod_03120,,,0.0,47.0
+122.0,prod_03124,Horizontal National Forecast,Wright-Leblanc,34191.72,0.0
+0.0,prod_03130,,,0.0,46.0
+118.0,prod_03131,Switchable Motivating Throughput,"Ellis, Baker and Wright",13338.72,0.0
+127.0,prod_03136,Managed Stable Success,Bush Inc,64634.11,0.0
+121.0,prod_03144,Ameliorated Solution-Oriented Leverage,"Patterson, Smith and Jones",30681.97,44.0
+119.0,prod_03157,Multi-Lateral Maximized Neural-Net,King-Odonnell,15370.04,0.0
+125.0,prod_03159,Innovative Zero-Defect Process Improvement,Powell PLC,26940.0,0.0
+120.0,prod_03160,Exclusive Didactic Graphical User Interface,Hancock Inc,30747.6,0.0
+0.0,prod_03165,,,0.0,46.0
+0.0,prod_03168,,,0.0,47.0
+128.0,prod_03171,Cross-Platform Next Generation Complexity,Phillips Inc,2798.08,0.0
+0.0,prod_03173,,,0.0,47.0
+144.0,prod_03175,Cross-Platform Web-Enabled Analyzer,Phillips Inc,69145.92,0.0
+0.0,prod_03179,,,0.0,44.0
+0.0,prod_03180,,,0.0,49.0
+0.0,prod_03181,,,0.0,44.0
+119.0,prod_03188,Mandatory 6Thgeneration Flexibility,Burns-Rodriguez,17892.84,0.0
+0.0,prod_03189,,,0.0,45.0
+0.0,prod_03197,,,0.0,49.0
+118.0,prod_03199,Mandatory Regional Archive,Burns-Rodriguez,27712.3,0.0
+130.0,prod_03220,Intuitive Local Help-Desk,"Anderson, Walls and Duncan",21825.7,0.0
+135.0,prod_03222,Down-Sized 6Thgeneration Solution,"Patterson, Smith and Jones",67043.7,0.0
+0.0,prod_03239,,,0.0,46.0
+0.0,prod_03242,,,0.0,46.0
+0.0,prod_03244,,,0.0,45.0
+0.0,prod_03246,,,0.0,44.0
+120.0,prod_03248,Realigned Client-Server Toolset,"Brewer, Bryant and Hickman",38364.0,0.0
+124.0,prod_03266,Diverse Transitional Encoding,"Brewer, Bryant and Hickman",695.64,0.0
+117.0,prod_03267,Configurable Incremental Graphical User Interface,Powell PLC,23242.05,0.0
+0.0,prod_03269,,,0.0,53.0
+134.0,prod_03270,Expanded Local Complexity,"Rodriguez, Figueroa and Sanchez",17872.92,0.0
+0.0,prod_03274,,,0.0,46.0
+121.0,prod_03276,Total Intangible Neural-Net,Cameron-Parsons,40299.05,47.0
+0.0,prod_03287,,,0.0,46.0
+0.0,prod_03293,,,0.0,44.0
+120.0,prod_03304,Polarized Asymmetric Superstructure,Cameron-Parsons,2538.0,0.0
+0.0,prod_03313,,,0.0,46.0
+0.0,prod_03315,,,0.0,47.0
+118.0,prod_03322,Self-Enabling Client-Server Policy,Rodriguez-Graham,18353.72,0.0
+129.0,prod_03323,User-Friendly Cohesive Website,"Anderson, Walls and Duncan",61640.07,0.0
+0.0,prod_03329,,,0.0,46.0
+125.0,prod_03336,Implemented Bottom-Line Database,"Anderson, Walls and Duncan",35086.25,0.0
+0.0,prod_03339,,,0.0,46.0
+129.0,prod_03351,Vision-Oriented 4Thgeneration Middleware,Cameron-Parsons,26023.17,0.0
+0.0,prod_03355,,,0.0,44.0
+120.0,prod_03362,Total Intermediate Adapter,Preston Ltd,53616.0,0.0
+0.0,prod_03380,,,0.0,56.0
+118.0,prod_03381,Ergonomic Static Success,Mitchell-Kim,25443.16,0.0
+118.0,prod_03392,Devolved Methodical Graphical User Interface,"Moore, Becker and Carlson",40796.14,0.0
+124.0,prod_03398,Devolved Zero Administration Solution,Kelly-Santiago,58591.24,0.0
+128.0,prod_03409,Right-Sized Bi-Directional Leverage,Preston Ltd,41843.2,0.0
+0.0,prod_03414,,,0.0,45.0
+124.0,prod_03415,Re-Engineered Web-Enabled Flexibility,Kelly-Santiago,30275.84,0.0
+117.0,prod_03425,Virtual Encompassing Database,Baldwin Ltd,36247.77,0.0
+0.0,prod_03435,,,0.0,48.0
+129.0,prod_03437,Exclusive 5Thgeneration Implementation,Preston Ltd,4266.03,49.0
+125.0,prod_03441,Digitized Intermediate Focus Group,Burns-Rodriguez,7987.5,0.0
+0.0,prod_03444,,,0.0,45.0
+124.0,prod_03450,Future-Proofed Multimedia Adapter,Preston Ltd,46650.04,0.0
+0.0,prod_03453,,,0.0,44.0
+127.0,prod_03455,Cloned Homogeneous Challenge,Skinner-Romero,44810.68,0.0
+123.0,prod_03458,Robust Object-Oriented Structure,Cameron-Parsons,8584.17,0.0
+119.0,prod_03460,Automated Demand-Driven Archive,Kelly-Santiago,6233.22,0.0
+126.0,prod_03473,Self-Enabling Multi-State Hub,"Anderson, Walls and Duncan",3229.38,0.0
+0.0,prod_03474,,,0.0,50.0
+0.0,prod_03483,,,0.0,45.0
+0.0,prod_03488,,,0.0,50.0
+119.0,prod_03489,Synergized Transitional Parallelism,Carney-Santos,50420.3,44.0
+0.0,prod_03495,,,0.0,52.0
+121.0,prod_03501,Object-Based Optimizing Data-Warehouse,Kelly-Santiago,12833.26,0.0
+0.0,prod_03505,,,0.0,54.0
+0.0,prod_03517,,,0.0,53.0
+0.0,prod_03519,,,0.0,50.0
+124.0,prod_03522,Horizontal Zero Administration Groupware,Skinner-Romero,18476.0,0.0
+0.0,prod_03525,,,0.0,48.0
+120.0,prod_03533,Managed Client-Server Analyzer,"Anderson, Walls and Duncan",13664.4,0.0
+126.0,prod_03538,Managed Systemic Protocol,"Moore, Becker and Carlson",26767.44,0.0
+148.0,prod_03539,Grass-Roots Multi-Tasking Infrastructure,Preston Ltd,10454.72,0.0
+0.0,prod_03543,,,0.0,45.0
+121.0,prod_03551,Visionary Radical Protocol,Phillips Inc,29330.4,0.0
+127.0,prod_03554,Synergized Interactive Artificial Intelligence,"Ellis, Baker and Wright",46007.02,0.0
+134.0,prod_03556,Down-Sized Stable Frame,Rodriguez-Graham,48502.64,0.0
+0.0,prod_03559,,,0.0,50.0
+119.0,prod_03565,Quality-Focused Eco-Centric Success,Carney-Santos,53791.57,45.0
+0.0,prod_03567,,,0.0,44.0
+124.0,prod_03568,Versatile Responsive Hardware,Powell PLC,3128.52,0.0
+121.0,prod_03572,Total Asymmetric Synergy,Owens-Daniel,1443.53,47.0
+144.0,prod_03578,Adaptive Foreground Local Area Network,Smith Ltd,28627.2,0.0
+0.0,prod_03581,,,0.0,45.0
+127.0,prod_03586,Assimilated Executive Graphic Interface,"Moore, Becker and Carlson",48033.94,0.0
+121.0,prod_03587,Devolved Multi-Tasking Portal,"Moore, Becker and Carlson",14187.25,0.0
+0.0,prod_03593,,,0.0,44.0
+0.0,prod_03596,,,0.0,47.0
+0.0,prod_03623,,,0.0,52.0
+0.0,prod_03640,,,0.0,49.0
+120.0,prod_03646,Open-Source National Support,Mitchell-Kim,38101.2,0.0
+126.0,prod_03650,Organized Demand-Driven Array,Bush Inc,32389.56,46.0
+0.0,prod_03663,,,0.0,45.0
+120.0,prod_03664,Cloned Cohesive Leverage,Phillips Inc,17766.0,0.0
+0.0,prod_03669,,,0.0,46.0
+123.0,prod_03681,Balanced Interactive Matrix,Owens-Daniel,15162.21,0.0
+0.0,prod_03687,,,0.0,44.0
+0.0,prod_03688,,,0.0,44.0
+126.0,prod_03691,Profit-Focused Secondary Frame,Phillips Inc,28751.94,0.0
+0.0,prod_03694,,,0.0,47.0
+0.0,prod_03697,,,0.0,45.0
+0.0,prod_03700,,,0.0,48.0
+127.0,prod_03702,Front-Line Incremental Portal,Spence PLC,7338.06,0.0
+120.0,prod_03703,Secured Heuristic Toolset,"Anderson, Walls and Duncan",23371.2,0.0
+134.0,prod_03706,Progressive Bottom-Line Open Architecture,"Ellis, Baker and Wright",68523.58,0.0
+123.0,prod_03709,Fully-Configurable Multi-State Core,Cameron-Parsons,10539.87,44.0
+0.0,prod_03712,,,0.0,46.0
+142.0,prod_03718,Multi-Channeled Web-Enabled Hub,Burns-Rodriguez,4818.06,0.0
+118.0,prod_03719,Balanced Contextually-Based Initiative,Spence PLC,55919.02,0.0
+118.0,prod_03733,Exclusive Disintermediate Parallelism,Cameron-Parsons,51836.22,0.0
+126.0,prod_03734,Devolved Impactful Project,"Anderson, Walls and Duncan",58233.42,0.0
+126.0,prod_03739,Enterprise-Wide Demand-Driven Algorithm,"Anderson, Walls and Duncan",8799.84,0.0
+132.0,prod_03754,Self-Enabling 3Rdgeneration Time-Frame,Carney-Santos,56199.0,0.0
+118.0,prod_03755,Optimized Intermediate Utilization,King-Odonnell,598.26,0.0
+0.0,prod_03767,,,0.0,44.0
+0.0,prod_03772,,,0.0,46.0
+134.0,prod_03776,Vision-Oriented Stable Frame,Bush Inc,46610.56,58.0
+0.0,prod_03780,,,0.0,44.0
+0.0,prod_03786,,,0.0,44.0
+131.0,prod_03802,Object-Based Human-Resource Architecture,Wright-Leblanc,51954.6,0.0
+122.0,prod_03804,Managed 4Thgeneration Application,Cameron-Parsons,23485.0,0.0
+0.0,prod_03815,,,0.0,50.0
+124.0,prod_03820,Expanded Composite Service-Desk,Hancock Inc,918.84,0.0
+133.0,prod_03825,Reverse-Engineered Actuating Success,Rodriguez-Graham,19758.48,0.0
+136.0,prod_03832,Diverse Scalable Array,Owens-Daniel,22230.56,0.0
+120.0,prod_03851,Right-Sized 6Thgeneration Open Architecture,Spence PLC,31327.2,0.0
+139.0,prod_03854,Automated Real-Time Solution,Powell PLC,3892.0,0.0
+0.0,prod_03860,,,0.0,44.0
+0.0,prod_03861,,,0.0,46.0
+122.0,prod_03864,Networked Needs-Based Collaboration,Wright-Leblanc,50776.4,0.0
+0.0,prod_03868,,,0.0,50.0
+118.0,prod_03874,Multi-Channeled Reciprocal Frame,Bush Inc,30488.84,0.0
+128.0,prod_03876,Object-Based Directional Core,Owens-Daniel,33664.0,0.0
+0.0,prod_03886,,,0.0,45.0
+0.0,prod_03894,,,0.0,48.0
+0.0,prod_03897,,,0.0,51.0
+0.0,prod_03899,,,0.0,44.0
+127.0,prod_03905,Grass-Roots Exuding Concept,"Brewer, Bryant and Hickman",46739.81,0.0
+0.0,prod_03927,,,0.0,46.0
+0.0,prod_03946,,,0.0,48.0
+119.0,prod_03955,Assimilated Systematic System Engine,Preston Ltd,39047.47,0.0
+121.0,prod_03964,Innovative Disintermediate Info-Mediaries,Carney-Santos,30289.93,0.0
+0.0,prod_03972,,,0.0,44.0
+0.0,prod_03973,,,0.0,44.0
+0.0,prod_03975,,,0.0,53.0
+119.0,prod_03981,Automated Explicit Orchestration,Smith Ltd,40155.36,0.0
+0.0,prod_03991,,,0.0,45.0
+127.0,prod_04000,Horizontal Multi-Tasking Projection,Burns-Rodriguez,19507.2,0.0
+118.0,prod_04002,Face-To-Face Tangible Strategy,Powell PLC,51805.54,0.0
+0.0,prod_04010,,,0.0,45.0
+123.0,prod_04020,Pre-Emptive Exuding Customer Loyalty,"Brewer, Bryant and Hickman",61496.31,0.0
+121.0,prod_04024,Proactive 4Thgeneration Database,King-Odonnell,54952.15,0.0
+0.0,prod_04025,,,0.0,44.0
+0.0,prod_04026,,,0.0,51.0
+0.0,prod_04040,,,0.0,44.0
+137.0,prod_04052,Self-Enabling Empowering Attitude,Hancock Inc,2171.45,0.0
+0.0,prod_04055,,,0.0,44.0
+125.0,prod_04064,Ergonomic Homogeneous Open System,Spence PLC,51356.25,0.0
+126.0,prod_04070,Polarized Static Productivity,"Anderson, Walls and Duncan",37973.88,0.0
+117.0,prod_04071,Balanced Optimizing Help-Desk,Bush Inc,55343.34,0.0
+124.0,prod_04079,Up-Sized Empowering Pricing Structure,Cameron-Parsons,10579.68,0.0
+122.0,prod_04081,Advanced Coherent Open Architecture,Carney-Santos,40852.92,0.0
+133.0,prod_04082,Networked Client-Server Complexity,Mitchell-Kim,45607.03,0.0
+0.0,prod_04089,,,0.0,44.0
+0.0,prod_04093,,,0.0,44.0
+125.0,prod_04098,Total Explicit Focus Group,Kelly-Santiago,34408.75,45.0
+131.0,prod_04099,Re-Contextualized Intangible Initiative,Owens-Daniel,22022.41,0.0
+130.0,prod_04106,Enterprise-Wide Hybrid Product,"Anderson, Walls and Duncan",9575.8,52.0
+0.0,prod_04115,,,0.0,44.0
+128.0,prod_04125,Fundamental Cohesive Access,Burns-Rodriguez,22452.48,46.0
+140.0,prod_04130,Ergonomic Zero Tolerance Middleware,Kelly-Santiago,34112.4,0.0
+118.0,prod_04141,Profit-Focused Eco-Centric Monitoring,Mitchell-Kim,1220.12,0.0
+0.0,prod_04143,,,0.0,45.0
+120.0,prod_04150,Polarized Global Emulation,"Patterson, Smith and Jones",28054.8,0.0
+130.0,prod_04151,Versatile National Application,Smith Ltd,25862.2,0.0
+130.0,prod_04152,Monitored Scalable Concept,"Brewer, Bryant and Hickman",20194.2,0.0
+129.0,prod_04157,Optimized Eco-Centric Function,Cameron-Parsons,38640.66,0.0
+122.0,prod_04164,Stand-Alone Systematic Synergy,Baldwin Ltd,14721.74,0.0
+0.0,prod_04167,,,0.0,50.0
+0.0,prod_04173,,,0.0,45.0
+0.0,prod_04174,,,0.0,53.0
+124.0,prod_04176,Monitored Context-Sensitive Focus Group,Carney-Santos,27810.72,0.0
+0.0,prod_04180,,,0.0,46.0
+137.0,prod_04181,Up-Sized Static Graphic Interface,Hancock Inc,71150.95,0.0
+120.0,prod_04209,Automated 24Hour Customer Loyalty,Smith Ltd,12135.6,0.0
+0.0,prod_04210,,,0.0,50.0
+0.0,prod_04216,,,0.0,47.0
+131.0,prod_04219,Realigned Well-Modulated Core,Bush Inc,13986.87,0.0
+0.0,prod_04221,,,0.0,50.0
+128.0,prod_04225,Reverse-Engineered Interactive Contingency,Baldwin Ltd,59006.72,0.0
+0.0,prod_04247,,,0.0,48.0
+147.0,prod_04249,Programmable Contextually-Based Complexity,Burns-Rodriguez,66182.34,0.0
+122.0,prod_04250,Devolved Intangible Archive,Rodriguez-Graham,49406.34,0.0
+125.0,prod_04254,Re-Engineered Holistic Ability,Phillips Inc,40371.25,46.0
+120.0,prod_04258,Re-Contextualized Client-Driven Customer Loyalty,Cameron-Parsons,47803.2,47.0
+0.0,prod_04260,,,0.0,50.0
+126.0,prod_04266,Integrated National Artificial Intelligence,Cameron-Parsons,33754.14,0.0
+131.0,prod_04273,Future-Proofed Needs-Based Internet Solution,Powell PLC,51966.39,0.0
+131.0,prod_04279,Triple-Buffered Actuating Infrastructure,"Brewer, Bryant and Hickman",18232.58,0.0
+136.0,prod_04285,Focused Bandwidth-Monitored Artificial Intelligence,"Ellis, Baker and Wright",2792.08,0.0
+0.0,prod_04289,,,0.0,44.0
+136.0,prod_04296,Fundamental Leadingedge Productivity,Powell PLC,23757.84,0.0
+148.0,prod_04298,Virtual Leadingedge Strategy,King-Odonnell,19170.44,47.0
+120.0,prod_04299,Business-Focused Heuristic Strategy,Spence PLC,11175.6,0.0
+118.0,prod_04301,Versatile Asymmetric Application,Rodriguez-Graham,38252.06,0.0
+0.0,prod_04303,,,0.0,44.0
+120.0,prod_04308,Seamless Reciprocal Conglomeration,"Anderson, Walls and Duncan",59886.0,0.0
+131.0,prod_04312,Re-Engineered 24/7 Project,Phillips Inc,24672.54,0.0
+0.0,prod_04323,,,0.0,49.0
+0.0,prod_04329,,,0.0,44.0
+124.0,prod_04340,Adaptive Contextually-Based Core,Skinner-Romero,30742.08,45.0
+0.0,prod_04343,,,0.0,48.0
+122.0,prod_04346,Upgradable Optimizing Functionalities,"Ellis, Baker and Wright",31749.28,50.0
+0.0,prod_04350,,,0.0,46.0
+0.0,prod_04355,,,0.0,49.0
+0.0,prod_04358,,,0.0,46.0
+118.0,prod_04360,User-Friendly Multi-Tasking Synergy,"Rodriguez, Figueroa and Sanchez",34925.64,0.0
+123.0,prod_04365,De-Engineered Tangible Benchmark,Rodriguez-Graham,41359.98,0.0
+117.0,prod_04369,Universal Radical Emulation,"Ellis, Baker and Wright",32768.19,0.0
+118.0,prod_04370,Persevering Heuristic Infrastructure,Wright-Leblanc,52891.14,0.0
+123.0,prod_04376,User-Centric Needs-Based Focus Group,Carney-Santos,15860.85,0.0
+117.0,prod_04384,Robust Zero Administration Core,Kelly-Santiago,43965.09,0.0
+0.0,prod_04385,,,0.0,44.0
+0.0,prod_04388,,,0.0,51.0
+135.0,prod_04398,Face-To-Face Dynamic Firmware,Powell PLC,22805.55,0.0
+0.0,prod_04401,,,0.0,45.0
+0.0,prod_04404,,,0.0,46.0
+0.0,prod_04411,,,0.0,44.0
+0.0,prod_04414,,,0.0,46.0
+0.0,prod_04420,,,0.0,45.0
+0.0,prod_04424,,,0.0,46.0
+0.0,prod_04425,,,0.0,51.0
+123.0,prod_04437,Integrated Contextually-Based Functionalities,Kelly-Santiago,14169.6,0.0
+127.0,prod_04449,Robust Context-Sensitive Ability,Carney-Santos,66160.65,0.0
+126.0,prod_04453,Persevering 6Thgeneration Migration,Powell PLC,51846.48,0.0
+0.0,prod_04458,,,0.0,45.0
+0.0,prod_04469,,,0.0,47.0
+0.0,prod_04476,,,0.0,44.0
+0.0,prod_04477,,,0.0,47.0
+0.0,prod_04479,,,0.0,45.0
+0.0,prod_04480,,,0.0,52.0
+122.0,prod_04489,Versatile Transitional Internet Solution,"Rodriguez, Figueroa and Sanchez",37850.5,46.0
+130.0,prod_04493,Robust Zero Administration Contingency,Baldwin Ltd,33605.0,0.0
+0.0,prod_04500,,,0.0,50.0
+0.0,prod_04502,,,0.0,50.0
+0.0,prod_04503,,,0.0,46.0
+133.0,prod_04506,Object-Based Fault-Tolerant Function,"Brewer, Bryant and Hickman",37640.33,47.0
+0.0,prod_04507,,,0.0,44.0
+126.0,prod_04509,Networked Grid-Enabled Interface,Hancock Inc,20902.14,50.0
+0.0,prod_04514,,,0.0,49.0
+0.0,prod_04520,,,0.0,45.0
+137.0,prod_04530,De-Engineered Real-Time Success,Mitchell-Kim,8061.08,0.0
+137.0,prod_04535,Programmable Grid-Enabled Core,"Patterson, Smith and Jones",49414.53,51.0
+0.0,prod_04536,,,0.0,45.0
+0.0,prod_04537,,,0.0,47.0
+0.0,prod_04540,,,0.0,45.0
+131.0,prod_04545,Fundamental Tertiary Hierarchy,Wright-Leblanc,16669.75,0.0
+130.0,prod_04551,Persevering Explicit Contingency,"Brewer, Bryant and Hickman",30189.9,0.0
+117.0,prod_04552,Customer-Focused 3Rdgeneration Framework,Kelly-Santiago,15735.33,44.0
+118.0,prod_04556,Streamlined Foreground Strategy,Kelly-Santiago,32307.22,0.0
+0.0,prod_04562,,,0.0,45.0
+120.0,prod_04571,Fully-Configurable Value-Added Approach,Rodriguez-Graham,49147.2,0.0
+0.0,prod_04581,,,0.0,46.0
+125.0,prod_04584,Self-Enabling Client-Server Graphical User Interface,Cameron-Parsons,11302.5,0.0
+123.0,prod_04603,Ergonomic Content-Based Support,Phillips Inc,5747.79,0.0
+0.0,prod_04610,,,0.0,46.0
+125.0,prod_04615,Open-Architected Grid-Enabled Moratorium,Owens-Daniel,2402.5,46.0
+0.0,prod_04617,,,0.0,45.0
+0.0,prod_04620,,,0.0,49.0
+0.0,prod_04622,,,0.0,48.0
+0.0,prod_04623,,,0.0,52.0
+0.0,prod_04625,,,0.0,44.0
+120.0,prod_04629,Distributed Bandwidth-Monitored Conglomeration,Mitchell-Kim,28729.2,0.0
+122.0,prod_04652,Exclusive Value-Added Complexity,Hancock Inc,59811.72,0.0
+122.0,prod_04659,Enhanced Next Generation Database,Bush Inc,12508.66,44.0
+122.0,prod_04672,Multi-Layered Optimal Concept,Kelly-Santiago,37200.24,0.0
+118.0,prod_04678,Proactive Context-Sensitive Support,"Ellis, Baker and Wright",44776.28,0.0
+136.0,prod_04683,Inverse Directional Portal,Kelly-Santiago,65294.96,0.0
+126.0,prod_04684,Optional Responsive Productivity,Owens-Daniel,58876.02,0.0
+0.0,prod_04693,,,0.0,45.0
+0.0,prod_04697,,,0.0,45.0
+121.0,prod_04714,Multi-Channeled Human-Resource Frame,Hancock Inc,14844.28,0.0
+0.0,prod_04719,,,0.0,45.0
+0.0,prod_04721,,,0.0,48.0
+0.0,prod_04722,,,0.0,44.0
+125.0,prod_04740,Enterprise-Wide Optimal Secured Line,Owens-Daniel,47896.25,0.0
+0.0,prod_04748,,,0.0,44.0
+0.0,prod_04753,,,0.0,46.0
+129.0,prod_04754,Optimized 5Thgeneration Migration,"Anderson, Walls and Duncan",35227.32,0.0
+132.0,prod_04756,Cloned Heuristic Utilization,Powell PLC,14376.12,0.0
+0.0,prod_04758,,,0.0,45.0
+0.0,prod_04762,,,0.0,48.0
+0.0,prod_04774,,,0.0,47.0
+0.0,prod_04781,,,0.0,44.0
+139.0,prod_04785,Expanded Interactive Methodology,Kelly-Santiago,19298.76,0.0
+0.0,prod_04804,,,0.0,46.0
+0.0,prod_04805,,,0.0,50.0
+126.0,prod_04810,Secured Analyzing Strategy,Kelly-Santiago,48914.46,0.0
+124.0,prod_04823,Sharable Exuding Installation,Spence PLC,47489.52,0.0
+0.0,prod_04837,,,0.0,46.0
+0.0,prod_04841,,,0.0,47.0
+0.0,prod_04842,,,0.0,45.0
+0.0,prod_04843,,,0.0,48.0
+0.0,prod_04844,,,0.0,44.0
+0.0,prod_04848,,,0.0,47.0
+126.0,prod_04850,Future-Proofed Well-Modulated Focus Group,"Moore, Becker and Carlson",16537.5,0.0
+120.0,prod_04851,Centralized Tertiary Solution,King-Odonnell,42781.2,0.0
+0.0,prod_04852,,,0.0,52.0
+132.0,prod_04853,Diverse Encompassing Hub,Hancock Inc,31181.04,0.0
+129.0,prod_04859,Enhanced Holistic Artificial Intelligence,"Rodriguez, Figueroa and Sanchez",28906.32,0.0
+0.0,prod_04871,,,0.0,45.0
+122.0,prod_04875,Compatible Solution-Oriented Info-Mediaries,Wright-Leblanc,2427.8,0.0
+0.0,prod_04880,,,0.0,44.0
+0.0,prod_04885,,,0.0,47.0
+128.0,prod_04886,Phased Contextually-Based Implementation,Baldwin Ltd,37950.72,0.0
+121.0,prod_04889,Up-Sized Next Generation Algorithm,Bush Inc,20242.09,0.0
+0.0,prod_04912,,,0.0,47.0
+120.0,prod_04913,Reverse-Engineered Bifurcated Pricing Structure,Cameron-Parsons,35772.0,47.0
+137.0,prod_04915,Adaptive 3Rdgeneration Paradigm,"Brewer, Bryant and Hickman",33021.11,0.0
+0.0,prod_04919,,,0.0,52.0
+0.0,prod_04928,,,0.0,44.0
+127.0,prod_04930,Inverse Homogeneous Orchestration,Burns-Rodriguez,40467.28,0.0
+127.0,prod_04934,Devolved Tertiary Throughput,Hancock Inc,1620.52,0.0
+122.0,prod_04935,Cross-Group System-Worthy Middleware,Owens-Daniel,39194.94,0.0
+0.0,prod_04936,,,0.0,49.0
+119.0,prod_04937,Adaptive Coherent Infrastructure,Preston Ltd,45387.79,0.0
+164.0,prod_04939,Devolved Maximized Emulation,Owens-Daniel,76715.92,0.0
+119.0,prod_04940,Ergonomic Incremental Function,Mitchell-Kim,66386.53,0.0
+0.0,prod_04952,,,0.0,45.0
+118.0,prod_04958,User-Friendly Responsive Database,Hancock Inc,54641.08,0.0
+133.0,prod_04965,Open-Architected Coherent Capacity,Bush Inc,8017.24,0.0
+118.0,prod_04967,Open-Source Needs-Based Intranet,"Anderson, Walls and Duncan",48317.46,0.0
+118.0,prod_04971,Profit-Focused Non-Volatile Matrices,"Patterson, Smith and Jones",25787.72,46.0
+124.0,prod_04973,Expanded Fault-Tolerant Application,Owens-Daniel,38883.92,0.0
+0.0,prod_04976,,,0.0,50.0
+0.0,prod_04985,,,0.0,48.0
+0.0,prod_04990,,,0.0,46.0
+127.0,prod_04992,Proactive Client-Server Attitude,"Patterson, Smith and Jones",23643.59,0.0
+125.0,prod_04996,Reverse-Engineered Regional Portal,Spence PLC,14548.75,0.0
+0.0,prod_04998,,,0.0,44.0

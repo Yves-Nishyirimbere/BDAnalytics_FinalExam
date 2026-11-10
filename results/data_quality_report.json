@@ -1,0 +1,34 @@
+{
+  "raw_counts": {
+    "users": 10000,
+    "products": 5000,
+    "categories": 25,
+    "sessions": 200000,
+    "transactions": 100000
+  },
+  "clean_counts": {
+    "sessions": 200000,
+    "transactions": 100000,
+    "page_views": 1997108,
+    "cart_items": 207679,
+    "txn_items": 226936
+  },
+  "transactions_without_session": 59512,
+  "transactions_total_mismatch": 0,
+  "transactions_items_mismatch": 0,
+  "sessions_converted_without_transaction": 0,
+  "sessions_by_conversion_status": {
+    "abandoned": 89436,
+    "converted": 40488,
+    "browsed": 70076
+  },
+  "transactions_by_status": {
+    "processing": 15016,
+    "shipped": 14851,
+    "completed": 55249,
+    "delivered": 14884
+  },
+  "inactive_products": 234,
+  "users_last_active_before_registration": 0,
+  "note_subcategory": "products.json has no subcategory_id; assigned deterministically via md5(product_id)"
+}

@@ -1,0 +1,14 @@
+# Optional - only if your MongoDB/HBase are not already running.
+services:
+  mongo:
+    image: mongo:7
+    ports: ["27017:27017"]
+    volumes: ["mongo_data:/data/db"]
+  hbase:
+    image: harisekhon/hbase:latest      # verify the tag/ports when you pull it
+    ports:
+      - "2181:2181"     # ZooKeeper
+      - "9090:9090"     # Thrift server  (what happybase connects to)
+      - "16010:16010"   # HBase Master web UI (good for screenshots)
+volumes:
+  mongo_data:

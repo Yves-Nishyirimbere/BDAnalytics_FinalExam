@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+data/*.json
+data/clean/
+results_backup/
+figures_backup/
+logs_backup/

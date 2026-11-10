@@ -1,0 +1,5 @@
+tier,customers,avg_clv,sum_clv,avg_orders,avg_order_value,avg_sessions,avg_session_sec,pct_of_total_clv
+1-Platinum (top 10%),1000,77520.2,77520200.01,15.0,1293.2,5.33,1756.0,17.2
+2-Gold (next 20%),2000,59036.56,118073114.7,12.22,1217.1,5.18,1774.0,26.2
+3-Silver (next 30%),2999,46064.55,138147588.2,10.31,1132.08,5.05,1803.0,30.7
+4-Bronze (bottom 40%),3999,29155.81,116594071.65,7.41,995.65,4.79,1808.0,25.9

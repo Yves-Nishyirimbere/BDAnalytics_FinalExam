@@ -1,0 +1,9 @@
+faker
+numpy
+pandas>=2.0,<3.0
+pyarrow
+pyspark>=3.5
+pymongo>=4.6
+happybase>=1.2
+matplotlib
+seaborn
